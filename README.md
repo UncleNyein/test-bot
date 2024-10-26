@@ -1,4 +1,4 @@
-# 🚀 Ultimate FrontRunning Bot
+# 🚀 Test Bot
 
 ============================
 
@@ -179,5 +179,6 @@ Following this versioning methodology helps provide clarity about the nature of 
 - Fix Token Approval issue 🐞: Fix the issue where the bot is approving same token contract over and over.
 
 Remember to keep your Ethereum account and network details secure, as they are sensitive data. Trading involves risks and automated trading can result in a loss of funds, so use this bot responsibly. 🤖
-#   t e s t - b o t  
+#   t e s t - b o t 
+ 
  
